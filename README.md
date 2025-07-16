@@ -1,4 +1,5 @@
-title: "Empirical Industrial Organisation"
+# 📊 Empirical Industrial Organisation
+
 ---
 
 # 📘 Empirical Industrial Organisation — Master Projects
