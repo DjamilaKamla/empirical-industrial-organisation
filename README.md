@@ -2,7 +2,7 @@
 
 This repository gathers key applied projects completed during my Master's in Economic Analysis (CY Cergy Paris Université & ESSEC Business School), in the course *Empirical Industiral Organisation*. I obtained a final grade of **19/20** for this course.
 
-These projects simulate real market dynamics, estimate demand systems, and evaluate public policy or competition scenarios — combining **theoretical grounding**, **empirical rigor**, and **data-driven simulations**.
+These projects simulate real market dynamics, estimate demand systems, and evaluate public policy or competition scenarios, combining **theoretical grounding**, **empirical rigor**, and **data-driven simulations**.
 
 ---
 
